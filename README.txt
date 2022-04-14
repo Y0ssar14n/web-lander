@@ -1,7 +1,7 @@
 /*=============*\
-|	        |
+|               |
 |  L A N D E R  |
-|	        |
+|               |
 \*=============*/
 
  What is this?
@@ -27,6 +27,16 @@ No, but thanks for asking. This is a very personal project.
 
 Yes!! Emphatically yes. I do not own this and never will. A credit for inspiration is appreciated but not required. 
 Theoretically this comes back to bite me but I really do want to be known on my own merit and not because a legal fiction protects my 'property'.
+
+ Currently planned features
+<-------------------------->
+  
+  * Eye-catching & effective visual links
+  * Responsive mobile formatting 
+  * Animations
+  * Interactivity that goes beyond mere links
+  * Ko-fi page (or some other formal support platform)
+  * Guestbook & chatbox (maybe)
 
 =========
 CHANGELOG
