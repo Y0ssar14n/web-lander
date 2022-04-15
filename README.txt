@@ -50,3 +50,8 @@ Basic files set up.
 Pushed to GH, fixed errors.
 Setup README. 
 Why do this? It's just a webpage--but it's a good habit and good practice.
+
+4.15.22 - THEME & LAYOUT
+Added first draft theme.
+Having trouble with the images aligning in a table but did basic layout.
+Need to make response & adaptable.

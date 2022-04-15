@@ -6,12 +6,39 @@
 body {
   text-align: center;
   background-color:black;
-  font-family: monospace;
+  font-family: Helvetica, Arial, Courier, sans-serif;
+  background-image: url("images/bg-static.png");
+  text-shadow: 1px 1px #000000;
+}
+
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+}
+
+marquee {
+  border: 1px solid black;
 }
 
 h1, p {
   color:white;
   padding:12px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h1:hover {
+  color: yellow;
+}
+
+p {
+  font-size: 30px;
 }
 
 ul {
@@ -25,11 +52,8 @@ table {
 td {
   padding-left: 5px;
   padding-right: 5px;
-  border: solid 1px red;
-}
-
-th {
-  border: solid 1px yellow;
+  font-size: 20px;
+  /* border: solid 1px red; */
 }
 
 .box {
@@ -39,5 +63,5 @@ th {
   margin-right:10px;
   margin-bottom:10px;
   margin-top:10px;
-  border:dashed 1px white;
+  /* border:dashed 1px white; */
 }
