@@ -55,3 +55,7 @@ Why do this? It's just a webpage--but it's a good habit and good practice.
 Added first draft theme.
 Having trouble with the images aligning in a table but did basic layout.
 Need to make response & adaptable.
+
+4.16.22 - FONTS & SEPARATE LANDER
+Added separate page for contact info.
+Updated fonts & additional CSS theming.

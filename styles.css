@@ -22,6 +22,8 @@ a:hover {
 
 marquee {
   border: 1px solid black;
+  background-image: url("images/marquee-bg.jpg");
+  box-shadow: 2px 3px black;
 }
 
 h1, p {
